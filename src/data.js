@@ -4,35 +4,34 @@ const data = [
     name: "Francis Nganuthia",
     age: 21,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+      "https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     id: 2,
     name: "Andrew Kifee",
-    age: 32,
+    age: 46,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
+      "http://www.ghafla.com/ke/wp-content/uploads/sites/4/2021/09/kibe.jpeg",
   },
   {
     id: 3,
     name: "Larry Madowo",
-    age: 36,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+    age: 35,
+    image: "https://whownskenya.com/wp-content/uploads/2021/05/madowo.png",
   },
   {
     id: 4,
     name: "Miguna Wang'ombe",
     age: 34,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+      "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400",
   },
   {
     id: 5,
     name: "Lola Wanjiru",
     age: 22,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+      "https://images.unsplash.com/photo-1589156280159-27698a70f29e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
   },
 ];
 
